@@ -38,7 +38,7 @@ Game Integrator Kit is a tool that allows skip quickly the environment setup and
 
 This project was bootstrapped with Create React App.
 
-You will find some information on how to perform common tasks in this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+You will find some information on how to perform common tasks in this guide [here](https://github.com/fabioDMFerreira/game-integrator-kit/wiki/Create-React-App).
 
 Clone this repository:
 
